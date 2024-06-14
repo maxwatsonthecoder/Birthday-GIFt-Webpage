@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: 'Happy Monkey', cursive;
-    background: linear-gradient(#a2d2ff, #EFB0C9);
+    background: linear-gradient(#fe9e05, #100101);
     color: #ffffff;
 }
 
@@ -10,7 +10,7 @@ h1, h2, h3, h4, p {
 }
 
 #bff-img {
-    width: 150px;
+    width: 250px;
     border-radius: 50%;
     border: 6px solid #EFB0C9;
     margin-bottom: 10px;
@@ -63,7 +63,7 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-happy:hover {
-    background-image: url("images/happy.gif");
+    background-image: url("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODF6b2pmemh6Mng1ajEwZ2IxY3lkdDhnOGRhaGRvY2J3anFuNGZzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zry5K8Xs7YQIA05NmS/giphy.gif");
 }
 
 #gift-img-hot:hover {
@@ -79,7 +79,7 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-cheers:hover {
-    background-image: url("images/cheers.gif");
+    background-image: url("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3kyNnhmcGw1ZjYxZGtsbW5rdmd6cTFyYWlzNncxYjd2ZnNzZ2F3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZEBoAmoK5NVNso29xo/giphy.gif");
 }
 
 #footer {
